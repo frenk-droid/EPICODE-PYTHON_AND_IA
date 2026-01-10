@@ -12,6 +12,7 @@ print(prezzo * quantità)
 numero = 10
 print(numero > 5)
 
+#Esercizio quattro
 a = 5
 b = 2.5
 a, b = b, a
